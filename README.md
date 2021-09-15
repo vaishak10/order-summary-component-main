@@ -56,8 +56,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@vaishak10](https://www.frontendmentor.io/profile/vaishak10)
+- Twitter - [@noob_devv](https://twitter.com/noob_devv)
 
 ## Acknowledgments
 
