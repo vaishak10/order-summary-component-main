@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop-view](design2\desktop_view.PNG)
+![Desktop-view](design2/desktop_view.PNG)
 
 ### Links
 
