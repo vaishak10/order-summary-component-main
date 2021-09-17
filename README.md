@@ -42,16 +42,16 @@ Users should be able to:
 
 ### What I learned
 
-This is the first time that I have developed a UI template following the mobile first design approach.
+This is the first time that I have developed a UI template following the mobile first design approach.<br>
+Also developed responsive design using pure css with the help of media queries.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Some responsive issue for some devices. Still working on making this design responsive for all the devices. 
 
 ### Useful resources
 
-- [Example resource 1](#https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](#https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [CSS properties](https://www.w3schools.com/cssref/) - Best place for explanation of all CSS properties available along with examples.
 
 ## Author
 

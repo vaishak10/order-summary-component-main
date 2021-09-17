@@ -39,18 +39,38 @@ h1 {
     margin:5rem auto;
     height: 500px;
     max-width: 500px;
-    position: relative;
-    right: -5px;
 }
 @media (max-width: 576px)
 {
     .order-summary-card {
         margin: 2rem auto;
         max-width: 90%;
+        position: relative;
+        right: -52px;
     }
     .container {
         margin: 6rem auto;
-        max-width: 90%;
+        max-width: 90%;    
+        position: relative;
+        right: 52px;
+    }
+}
+@media (max-width: 412px)
+{
+    .container {
+        margin: 6rem auto;
+        max-width: 80%;    
+        position: relative;
+        right: 48px;
+    }
+}
+@media (max-width: 360px)
+{
+    .container {
+        margin: 6rem auto;
+        max-width: 70%;    
+        position: relative;
+        right: 24px;
     }
 }
 .header {
@@ -113,14 +133,15 @@ h1 {
     height: 44px;
     width: 350px;
     margin: 1em 0 1em 0;
-    box-shadow: 0px 4px 6px rgb(0 0 0 / 50%);
+    box-shadow: 0px 8px 12px rgb(0 0 0 / 30%);
 }
 .proceed-button:hover {
     background-color: rgba(56, 41, 224, 0.7);
 }
 .cancel-link{
     cursor: pointer;
-    margin-bottom: 34px;
+    margin-bottom: 28px;
+    margin-top: -4px;
 }
 .cancel-link:hover {
     color: rgba(56, 41, 224, 0.9);
